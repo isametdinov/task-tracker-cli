@@ -89,6 +89,6 @@ list in-progress
 * Convert to REST API (Spring Boot)
 
 ---
-
+project URL: https://github.com/isametdinov/task-tracker-cli.git
 ## 👨‍💻 Author
 Isametdinov Muhammadboburbek
